@@ -10,7 +10,7 @@ CIS18 A Final Project
           Choice 2 - Clerk
           Then delves deeper into what can be done for Client or Clerk
  
-Date Created: 7/1/2020
+Date Created: 7/30/2020
 Version Number: 1 
 
 Program Usage: 
